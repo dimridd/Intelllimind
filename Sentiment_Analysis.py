@@ -17,7 +17,7 @@ from nltk.corpus import stopwords
 
 lst = []
 text = """
-Neural words are words with objectivity equal to 0 i.e.,
+Neutral words are words with objectivity equal to 0 i.e.,
 if positive score and negative score is zero.
 
 if negative score and positive score are equal to 0.5 than
